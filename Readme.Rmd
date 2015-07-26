@@ -1,0 +1,16 @@
+---
+title: "Developing Data Products course project1"
+author: "alanpoon"
+date: "Sunday, July 26, 2015"
+output: pdf_document
+---
+## rCharts' highchart in r shiny
+
+### Function
+
+It allows you to upload your own csv file and use the data in the highchart on the fly.
+On the first page load in https://viewtool.shinyapps.io/App-3, embedded data mtcars will be loaded to the chart.
+You can toggle the 'Choose x' tab to change the x-axis.
+After you infer the schema for your own csv, you can dynamically change the highchart's categories and the fields for line and bar chart.
+
+
